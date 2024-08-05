@@ -1,0 +1,8 @@
+{
+    "TranscriptionJobName": "MyTranscriptionJob",
+    "Media": {
+        "MediaFileUri": "s3://roybucket0317/Exercise/Raf01_320.mov"
+    },
+    "LanguageCode": "en-US",
+    "OutputBucketName": "roybucket0317"
+}
